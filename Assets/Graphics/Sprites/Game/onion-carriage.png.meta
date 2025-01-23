@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7baa14eb5d6cc2b4f8fb884760ecf956
+guid: 1e07b96c0bd78a74190de26de8e878f8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3718763337147400751
-    second: game_over_0
+      213: 3886287195324003117
+    second: onion-carriage_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,22 +113,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: game_over_0
+      name: onion-carriage_0
       rect:
         serializedVersion: 2
-        x: 12
-        y: 13
-        width: 876
-        height: 515
+        x: 0
+        y: 0
+        width: 736
+        height: 688
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1dd359d927c446cc0800000000000000
-      internalID: -3718763337147400751
+      spriteID: d23bf6c1d9ddee530800000000000000
+      internalID: 3886287195324003117
       vertices: []
       indices: 
       edges: []
@@ -136,7 +136,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -144,7 +144,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      game_over_0: -3718763337147400751
+      onion-carriage_0: 3886287195324003117
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

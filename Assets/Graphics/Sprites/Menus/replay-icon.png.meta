@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a12487d6080ca3b41b728f697b0da930
+guid: 5f7c2439ee9db34428803982a00490ff
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4795997930151214827
-    second: shrek-failed_0
+      213: 6541155506938774525
+    second: replay-icon_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: shrek-failed_0
+      name: replay-icon_0
       rect:
         serializedVersion: 2
-        x: 10
-        y: 11
-        width: 880
-        height: 519
+        x: 25
+        y: 35
+        width: 290
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,8 +127,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: beefb2a05bece8240800000000000000
-      internalID: 4795997930151214827
+      spriteID: df30dabe64ad6ca50800000000000000
+      internalID: 6541155506938774525
       vertices: []
       indices: 
       edges: []
