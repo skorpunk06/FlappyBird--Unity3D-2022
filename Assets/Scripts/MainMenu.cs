@@ -9,12 +9,7 @@ public class MainMenu : MonoBehaviour
     public Sprite[] spriteArr;
     private int spriteIndex;
 
-    void Awake()
-    {
-        spriteRenderer = player.GetComponent<SpriteRenderer>();
-        isOnMainMenu = true;
-        Time.timeScale = 1f;
-    }
+
 
     public void Start()
     {

@@ -1,3 +1,3 @@
-Build path: E:/Programs/GitHub/Projects/FlappyBird--Unity3D-2022/Builds/Flapping Shrek 01
-Build number: 4
+Build path: E:/Programs/GitHub/Projects/FlappyBird--Unity3D-2022/Builds/Flapping Shrek 05
+Build number: 9
 PluginYG version: 2.0031
