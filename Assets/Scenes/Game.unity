@@ -1385,6 +1385,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 859601014}
   m_CullTransparentMesh: 1
+--- !u!1 &870474624 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8275278891031627906, guid: 35fa95bde1a56744eb9b514cef2e0af8, type: 3}
+  m_PrefabInstance: {fileID: 1077237979}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &927924592
 GameObject:
   m_ObjectHideFlags: 0
@@ -1997,6 +2002,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 83277536474488766, guid: 35fa95bde1a56744eb9b514cef2e0af8, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 83277536474488766, guid: 35fa95bde1a56744eb9b514cef2e0af8, type: 3}
       propertyPath: m_Color.a
       value: 0.22745098
       objectReference: {fileID: 0}
@@ -2044,6 +2053,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Timer Before Ads
       objectReference: {fileID: 0}
+    - target: {fileID: 8275278890968826827, guid: 35fa95bde1a56744eb9b514cef2e0af8, type: 3}
+      propertyPath: secondObjects.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8275278890968826827, guid: 35fa95bde1a56744eb9b514cef2e0af8, type: 3}
+      propertyPath: 'secondObjects.Array.data[0]'
+      value: 
+      objectReference: {fileID: 1189056830}
+    - target: {fileID: 8275278890968826827, guid: 35fa95bde1a56744eb9b514cef2e0af8, type: 3}
+      propertyPath: 'secondObjects.Array.data[1]'
+      value: 
+      objectReference: {fileID: 870474624}
+    - target: {fileID: 8275278890968826827, guid: 35fa95bde1a56744eb9b514cef2e0af8, type: 3}
+      propertyPath: 'secondObjects.Array.data[2]'
+      value: 
+      objectReference: {fileID: 870474624}
     - target: {fileID: 8275278891031627907, guid: 35fa95bde1a56744eb9b514cef2e0af8, type: 3}
       propertyPath: m_Color.b
       value: 0.16078432
@@ -2095,7 +2120,7 @@ PrefabInstance:
     - target: {fileID: 8275278891404606938, guid: 35fa95bde1a56744eb9b514cef2e0af8, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 6604339808490387203, guid: f28da4df3fb86e34f82589ccaee44074, type: 3}
+      objectReference: {fileID: 21300000, guid: f28da4df3fb86e34f82589ccaee44074, type: 3}
     - target: {fileID: 8275278891404606938, guid: 35fa95bde1a56744eb9b514cef2e0af8, type: 3}
       propertyPath: m_Color.a
       value: 1
@@ -2188,6 +2213,11 @@ Transform:
   - {fileID: 2082897072}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1189056830 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8275278891352812731, guid: 35fa95bde1a56744eb9b514cef2e0af8, type: 3}
+  m_PrefabInstance: {fileID: 1077237979}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1257852378
 GameObject:
   m_ObjectHideFlags: 0
